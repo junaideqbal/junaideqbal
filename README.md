@@ -1,6 +1,7 @@
 ## Gists
 - [Salesforce lightning vertical progress indicator in aura component](https://gist.github.com/junaideqbal/5551863553299ba8994f18cbb245b38e)
 
+## Integration Guides
 <!--
 **junaideqbal/junaideqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
