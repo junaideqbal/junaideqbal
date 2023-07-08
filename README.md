@@ -3,7 +3,7 @@
 
 ##### PRODUCTS
 
-- [✨ Salesforce Org Assistant](https://github.com/junaideqbal/salesforce-admin-essential-tools), A browser extension designed exclusively for Salesforce users, delivering efficiency and productivity right at their fingertips.
+- [✨ Salesforce Org Assistant](https://github.com/junaideqbal/Salesforce-Org-Assistant), A browser extension designed exclusively for Salesforce users, delivering efficiency and productivity right at their fingertips.
 
 ##### WORKING ON
 - 🎧
