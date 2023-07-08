@@ -1,7 +1,15 @@
-## Gists
+##### Gists
 - [Salesforce lightning vertical progress indicator in aura component](https://gist.github.com/junaideqbal/5551863553299ba8994f18cbb245b38e)
 
-## Integration Guides
+##### PRODUCTS
+
+- [✨ Salesforce Org Assistant](https://github.com/junaideqbal/salesforce-admin-essential-tools), A browser extension designed exclusively for Salesforce users, delivering efficiency and productivity right at their fingertips.
+
+##### WORKING ON
+- 🎧
+
+#
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:contact@junaideqbal.com).
 <!--
 **junaideqbal/junaideqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
