@@ -5,7 +5,8 @@
 
 - [✨ Salesforce Org Assistant](https://github.com/junaideqbal/Salesforce-Org-Assistant), A browser extension designed exclusively for Salesforce users, delivering efficiency and productivity right at their fingertips.
 - [Sync 2 salesforce objects](https://gist.github.com/junaideqbal/03619ba83551d96c34ef4cfd4b459863) Sync opportunity line item and custom object e.g opp product.
-
+- [LWC Lightning Map](https://gist.github.com/junaideqbal/dc8c4477d230d920a8cef16b12b31168) LWC Lightning Map with Custom Filters.
+  
 ##### WORKING ON
 - 🎧
 
